@@ -1,0 +1,513 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Air Jordan 1 Mid SE Craft",
+      "img": "../Air Jordan 1 Mid SE Craft/thumbnail.jpeg",
+      "price": 16650,
+      "discount": 20,
+      "description": "A premium take on the classic Air Jordan 1 Mid, this shoe features a soft leather upper with a quilted pattern. The outsole is made of durable rubber for traction.",
+      "sizes": [
+        {
+          "size": "7",
+          "available": true
+        },
+        {
+          "size": "7.5",
+          "available": true
+        },
+        {
+          "size": "8",
+          "available": false
+        },
+        {
+          "size": "8.5",
+          "available": true
+        },
+        {
+          "size": "9",
+          "available": false
+        },
+        {
+          "size": "9.5",
+          "available": true
+        },
+        {
+          "size": "10",
+          "available": true
+        },
+        {
+          "size": "10.5",
+          "available": true
+        },
+        {
+          "size": "11",
+          "available": true
+        },
+        {
+          "size": "11.5",
+          "available": true
+        }
+      ],
+      "colors": [
+        "Emerald",
+        "Turquoise",
+        "Forest Green",
+        "Lime Green",
+        "Baby Blue"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Air Jordan 1 Mid SE",
+      "img": "../p1 Air Jordan 1 Mid SE/thumbnail.webp",
+      "price": 14540,
+      "discount": 28.5,
+      "description": "A more affordable option from the Air Jordan 1 Mid line, this shoe features a leather upper with a suede overlay. The outsole is made of durable rubber for traction.",
+      "sizes": [
+        {
+          "size": "7",
+          "available": true
+        },
+        {
+          "size": "7.5",
+          "available": true
+        },
+        {
+          "size": "8",
+          "available": true
+        },
+        {
+          "size": "8.5",
+          "available": true
+        },
+        {
+          "size": "9",
+          "available": true
+        },
+        {
+          "size": "9.5",
+          "available": true
+        },
+        {
+          "size": "10",
+          "available": true
+        },
+        {
+          "size": "10.5",
+          "available": true
+        },
+        {
+          "size": "11",
+          "available": true
+        },
+        {
+          "size": "11.5",
+          "available": true
+        }
+      ],
+      "colors": [
+        "Gold",
+        "Teal",
+        "Orange",
+        "Magenta",
+        "Coral"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Air Jordan XXXVII Low PF",
+      "img": "../p2 Air Jordan XXXVII Low PF/thumbnail.webp",
+      "price": 16855,
+      "discount": 48.15,
+      "description": "The latest addition to the Air Jordan line, this shoe features a lightweight upper with a responsive cushioning system. The outsole is made of durable rubber for traction.",
+      "sizes": [
+        {
+          "size": "7",
+          "available": true
+        },
+        {
+          "size": "7.5",
+          "available": true
+        },
+        {
+          "size": "8",
+          "available": true
+        },
+        {
+          "size": "8.5",
+          "available": true
+        },
+        {
+          "size": "9",
+          "available": true
+        },
+        {
+          "size": "9.5",
+          "available": true
+        },
+        {
+          "size": "10",
+          "available": true
+        },
+        {
+          "size": "10.5",
+          "available": true
+        },
+        {
+          "size": "11",
+          "available": true
+        },
+        {
+          "size": "11.5",
+          "available": true
+        }
+      ],
+      "colors": [
+        "Sage Green",
+        "Rose Gold",
+        "Bronze",
+        "Emerald",
+        "Turquoise"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Jordan Why Not .6 PF",
+      "img": "../p3 Jordan Why Not .6 PF/thumbnail.webp",
+      "price": 44440,
+      "discount": 75,
+      "description": "A signature shoe from Russell Westbrook, this shoe features a unique design with a full-length Zoom Air cushioning system. The outsole is made of durable rubber for traction.",
+      "sizes": [
+        {
+          "size": "7",
+          "available": true
+        },
+        {
+          "size": "7.5",
+          "available": true
+        },
+        {
+          "size": "8",
+          "available": true
+        },
+        {
+          "size": "8.5",
+          "available": true
+        },
+        {
+          "size": "9",
+          "available": true
+        },
+        {
+          "size": "9.5",
+          "available": true
+        },
+        {
+          "size": "10",
+          "available": true
+        },
+        {
+          "size": "10.5",
+          "available": true
+        },
+        {
+          "size": "11",
+          "available": true
+        },
+        {
+          "size": "11.5",
+          "available": true
+        }
+      ],
+      "colors": [
+        "Gold",
+        "Teal",
+        "Orange",
+        "Magenta",
+        "Coral"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Jordan Stay Loyal 2",
+      "img": "../p4 Jordan Stay Loyal 2/thumbnail.webp",
+      "price": 12750,
+      "discount": 50,
+      "description": "A comfortable and stylish shoe from Jordan Brand, this shoe features a leather upper with a suede overlay. The outsole is made of durable rubber for traction.",
+      "sizes": [
+        {
+          "size": "7",
+          "available": true
+        },
+        {
+          "size": "7.5",
+          "available": true
+        },
+        {
+          "size": "8",
+          "available": true
+        },
+        {
+          "size": "8.5",
+          "available": true
+        },
+        {
+          "size": "9",
+          "available": true
+        },
+        {
+          "size": "9.5",
+          "available": true
+        },
+        {
+          "size": "10",
+          "available": true
+        },
+        {
+          "size": "10.5",
+          "available": true
+        },
+        {
+          "size": "11",
+          "available": true
+        },
+        {
+          "size": "11.5",
+          "available": true
+        }
+      ],
+      "colors": [
+        "Sky Blue",
+        "Indigo",
+        "Peach",
+        "Mint",
+        "Lavender"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Jordan Delta 3 Low",
+      "img": "../p5 Jordan Delta 3 Low/thumbnail.webp",
+      "price": 12750,
+      "discount": 50,
+      "description": "A versatile and comfortable shoe from Jordan Brand, this shoe features a breathable mesh upper with a durable rubber outsole.",
+      "sizes": [
+        {
+          "size": "7",
+          "available": true
+        },
+        {
+          "size": "7.5",
+          "available": true
+        },
+        {
+          "size": "8",
+          "available": true
+        },
+        {
+          "size": "8.5",
+          "available": true
+        },
+        {
+          "size": "9",
+          "available": true
+        },
+        {
+          "size": "9.5",
+          "available": true
+        },
+        {
+          "size": "10",
+          "available": true
+        },
+        {
+          "size": "10.5",
+          "available": true
+        },
+        {
+          "size": "11",
+          "available": true
+        },
+        {
+          "size": "11.5",
+          "available": true
+        }
+      ],
+      "colors": [
+        "Rose Gold",
+        "Bronze",
+        "Emerald",
+        "Turquoise"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Air Jordan 13 Retro",
+      "img": "../p6 Air Jordan 13 Retro/thumbnail.webp",
+      "price": 12750,
+      "discount": 50,
+      "description": "A classic shoe from Jordan Brand, this shoe features a leather upper with a carbon fiber plate in the heel. The outsole is made of durable rubber for traction.",
+      "sizes": [
+        {
+          "size": "7",
+          "available": true
+        },
+        {
+          "size": "7.5",
+          "available": true
+        },
+        {
+          "size": "8",
+          "available": true
+        },
+        {
+          "size": "8.5",
+          "available": true
+        },
+        {
+          "size": "9",
+          "available": true
+        },
+        {
+          "size": "9.5",
+          "available": true
+        },
+        {
+          "size": "10",
+          "available": true
+        },
+        {
+          "size": "10.5",
+          "available": true
+        },
+        {
+          "size": "11",
+          "available": true
+        },
+        {
+          "size": "11.5",
+          "available": true
+        }
+      ],
+      "colors": [
+        "Navy",
+        "Tan",
+        "Maroon",
+        "Olive"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Air Jordan 6 Retro",
+      "img": "../p7 Air Jordan 6 Retro/thumbnail.webp",
+      "price": 22750,
+      "discount": 35.5,
+      "description": "A popular shoe from Jordan Brand, this shoe features a leather upper with a visible Air unit in the heel. The outsole is made of durable rubber for traction.",
+      "sizes": [
+        {
+          "size": "7",
+          "available": true
+        },
+        {
+          "size": "7.5",
+          "available": true
+        },
+        {
+          "size": "8",
+          "available": true
+        },
+        {
+          "size": "8.5",
+          "available": true
+        },
+        {
+          "size": "9",
+          "available": true
+        },
+        {
+          "size": "9.5",
+          "available": true
+        },
+        {
+          "size": "10",
+          "available": true
+        },
+        {
+          "size": "10.5",
+          "available": true
+        },
+        {
+          "size": "11",
+          "available": true
+        },
+        {
+          "size": "11.5",
+          "available": true
+        }
+      ],
+      "colors": [
+        "Magenta",
+        "Maroon",
+        "Olive",
+        "Dusty Rose"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Air Jordan 1 Retro High OG",
+      "img": "../p8 Air Jordan 1 Retro High OG/thumbnail.webp",
+      "price": 18750,
+      "discount": 45.3,
+      "description": "A must-have shoe from Jordan Brand, this shoe features a leather upper with a classic design. The outsole is made of durable rubber for traction.",
+      "sizes": [
+        {
+          "size": "7",
+          "available": true
+        },
+        {
+          "size": "7.5",
+          "available": true
+        },
+        {
+          "size": "8",
+          "available": true
+        },
+        {
+          "size": "8.5",
+          "available": true
+        },
+        {
+          "size": "9",
+          "available": true
+        },
+        {
+          "size": "9.5",
+          "available": true
+        },
+        {
+          "size": "10",
+          "available": true
+        },
+        {
+          "size": "10.5",
+          "available": true
+        },
+        {
+          "size": "11",
+          "available": true
+        },
+        {
+          "size": "11.5",
+          "available": true
+        }
+      ],
+      "colors": [
+        "Magenta",
+        "Charcoal",
+        "Rose Gold",
+        "Dusty Rose"
+      ]
+    }
+  ]
+}

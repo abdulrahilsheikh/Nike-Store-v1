@@ -1,8 +1,9 @@
 {
-  "name": "algo-visualizer",
+  "name": "nike-store",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://abdulrahilsheikh.github.io/Nike-store-v1",
   "scripts": {
     "dev": "vite --host",
     "build": "tsc && vite build",
@@ -13,7 +14,11 @@
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.43.9",
+    "react-responsive-carousel": "^3.2.23",
+    "react-router-dom": "^6.11.2",
+    "sass": "^1.62.1"
   },
   "devDependencies": {
     "@types/react": "^18.0.28",
