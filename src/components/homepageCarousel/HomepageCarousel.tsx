@@ -4,9 +4,8 @@ import slide2 from "../../assets/slide-2.png";
 import slide3 from "../../assets/slide-3.png";
 import LeftIcon from "../../svgs/leftIcon";
 import RightIcon from "../../svgs/rightIcon";
-type Props = {};
 
-const HomepageCarousel = ({}: Props) => {
+const HomepageCarousel = () => {
 	return (
 		<div className="relative text-white text-[20px] w-full max-w-[1360px] mx-auto">
 			<Carousel
@@ -15,14 +14,14 @@ const HomepageCarousel = ({}: Props) => {
 				showThumbs={false}
 				showIndicators={false}
 				showStatus={false}
-				renderArrowPrev={(clickHandler: any, hasPrev: any) => (
+				renderArrowPrev={(clickHandler: any) => (
 					<div
 						onClick={clickHandler}
 						className="absolute right-[31px] md:right-[60px] bottom-0 w-[30px] md:w-[50px] h-[30px] md:h-[50px]   z-10 flex items-center justify-center cursor-pointer hover:opacity-90">
 						<LeftIcon className="text-slate-600/30 " />
 					</div>
 				)}
-				renderArrowNext={(clickHandler: any, hasNext: any) => (
+				renderArrowNext={(clickHandler: any) => (
 					<div
 						onClick={clickHandler}
 						className="absolute right-0 bottom-0 w-[30px] md:w-[50px] h-[30px] md:h-[50px]  z-10 flex items-center justify-center cursor-pointer hover:opacity-90">

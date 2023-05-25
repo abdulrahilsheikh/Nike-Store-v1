@@ -1,8 +1,4 @@
-import React from "react";
-
-type Props = {};
-
-const Footer = (props: Props) => {
+const Footer = () => {
 	const footerNavs = [
 		{
 			label: "About Nike",

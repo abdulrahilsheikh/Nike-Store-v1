@@ -1,8 +1,8 @@
-import { useLocation, useNavigate, useParams } from "react-router-dom";
-import Wrapper from "../../components/wrapper/Wrapper";
 import { useCallback, useEffect, useState } from "react";
 import { useForm } from "react-hook-form";
+import { useNavigate, useParams } from "react-router-dom";
 import { ProductCard } from "../../components/product-card/ProductCard";
+import Wrapper from "../../components/wrapper/Wrapper";
 
 export interface IProductSchema {
 	id: number;
@@ -29,7 +29,7 @@ const Product = () => {
 		setValue,
 		getValues,
 		formState: { errors },
-	} = useForm({ defaultValues: { quantity: 1 } });
+	} = useForm({ defaultValues: { quantity: 1, size: null, color: null } });
 	const { id } = useParams();
 	const [productData, setProductData] = useState<IProductSchema | null>(null);
 	const [relatedProduct, setRelatedProduct] = useState<IProductSchema[]>([]);

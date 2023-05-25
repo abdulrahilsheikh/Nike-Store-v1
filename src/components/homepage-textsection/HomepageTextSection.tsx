@@ -1,9 +1,8 @@
-import React from "react";
 import Wrapper from "../wrapper/Wrapper";
 
 type Props = {};
 
-const HomepageTextSection = (props: Props) => {
+const HomepageTextSection = ({}: Props) => {
 	return (
 		<Wrapper className="flex justify-center items-center flex-col gap-4 md:py-20 ">
 			<div className="md:text-4xl">

@@ -1,9 +1,7 @@
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import CardSection from "../../components/card-section/CardSection";
-import HomepageCarousel from "../../components/homepageCarousel/HomepageCarousel";
 import HomepageTextSection from "../../components/homepage-textsection/HomepageTextSection";
-import Footer from "../../components/Footer/Footer";
-import Header from "../../components/header/Header";
+import HomepageCarousel from "../../components/homepageCarousel/HomepageCarousel";
 
 type Props = {};
 

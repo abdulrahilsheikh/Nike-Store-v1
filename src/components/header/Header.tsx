@@ -1,10 +1,9 @@
-import { useState, useRef, useEffect } from "react";
+import { useEffect, useRef, useState } from "react";
+import nikeLogo from "../../assets/logo.svg";
 import Wrapper from "../wrapper/Wrapper";
 import styles from "./Header.module.scss";
-import nikeLogo from "../../assets/logo.svg";
-type Props = {};
 
-const Header = (props: Props) => {
+const Header = () => {
 	const [state, setState] = useState(false);
 	const navRef = useRef<HTMLDivElement>(null);
 

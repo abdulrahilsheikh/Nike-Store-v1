@@ -57,7 +57,7 @@ const productList: ProductCardProps[] = [
 		discount: 45.3,
 	},
 ];
-function CardSection({}: Props) {
+function CardSection() {
 	return (
 		<Wrapper className="flex justify-center items-center">
 			<div className="grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-14 mt-5">
