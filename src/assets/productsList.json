@@ -3,10 +3,16 @@
     {
       "id": 1,
       "name": "Air Jordan 1 Mid SE Craft",
-      "img": "../Air Jordan 1 Mid SE Craft/thumbnail.jpeg",
+      "img": "Air Jordan 1 Mid SE Craft/thumbnail.jpeg",
       "price": 16650,
       "discount": 20,
       "description": "A premium take on the classic Air Jordan 1 Mid, this shoe features a soft leather upper with a quilted pattern. The outsole is made of durable rubber for traction.",
+      "images": [
+        "Air Jordan 1 Mid SE Craft/693cc53f-d228-472a-bf17-0a2e2c42daf7.webp",
+        "Air Jordan 1 Mid SE Craft/38175751-fd04-468e-8049-c772d41f5397.webp",
+        "Air Jordan 1 Mid SE Craft/air-jordan-1-mid-se-craft-shoes-RmP7J6.jpeg",
+        "Air Jordan 1 Mid SE Craft/cb9e0841-2e25-42b5-89f8-71a958794c2a.webp"
+      ],
       "sizes": [
         {
           "size": "7",
@@ -60,10 +66,16 @@
     {
       "id": 2,
       "name": "Air Jordan 1 Mid SE",
-      "img": "../p1 Air Jordan 1 Mid SE/thumbnail.webp",
+      "img": "p1 Air Jordan 1 Mid SE/thumbnail.webp",
       "price": 14540,
       "discount": 28.5,
       "description": "A more affordable option from the Air Jordan 1 Mid line, this shoe features a leather upper with a suede overlay. The outsole is made of durable rubber for traction.",
+      "images": [
+        "p1 Air Jordan 1 Mid SE/0d6a88ca-7ff8-4ad9-991b-b2e2a33cf66e.webp",
+        "p1 Air Jordan 1 Mid SE/266f9922-ec59-41e3-9b36-85c5fab5c1ec.webp",
+        "p1 Air Jordan 1 Mid SE/672537b9-5384-49e0-8128-5dedd538c208.webp",
+        "p1 Air Jordan 1 Mid SE/ca113e5f-2165-476a-8dcf-ce7a0d85356c.webp"
+      ],
       "sizes": [
         {
           "size": "7",
@@ -117,10 +129,16 @@
     {
       "id": 3,
       "name": "Air Jordan XXXVII Low PF",
-      "img": "../p2 Air Jordan XXXVII Low PF/thumbnail.webp",
+      "img": "p2 Air Jordan XXXVII Low PF/thumbnail.webp",
       "price": 16855,
       "discount": 48.15,
       "description": "The latest addition to the Air Jordan line, this shoe features a lightweight upper with a responsive cushioning system. The outsole is made of durable rubber for traction.",
+      "images": [
+        "p2 Air Jordan XXXVII Low PF/9cb30549-fe13-4998-ad7d-6c2876be3b5b.webp",
+        "p2 Air Jordan XXXVII Low PF/46e4d54c-895f-466c-a1b3-4fa284739297.webp",
+        "p2 Air Jordan XXXVII Low PF/28422f23-d3f7-4e32-92ac-c63f90e02e36.webp",
+        "p2 Air Jordan XXXVII Low PF/c33a5f8a-49c4-4dc6-98fe-f9f32aed42fe.webp"
+      ],
       "sizes": [
         {
           "size": "7",
@@ -174,10 +192,16 @@
     {
       "id": 4,
       "name": "Jordan Why Not .6 PF",
-      "img": "../p3 Jordan Why Not .6 PF/thumbnail.webp",
+      "img": "p3 Jordan Why Not .6 PF/thumbnail.webp",
       "price": 44440,
       "discount": 75,
       "description": "A signature shoe from Russell Westbrook, this shoe features a unique design with a full-length Zoom Air cushioning system. The outsole is made of durable rubber for traction.",
+      "images": [
+        "p3 Jordan Why Not .6 PF/0b05a3de-0637-4af2-8844-ad6a381adcc4.webp",
+        "p3 Jordan Why Not .6 PF/619fb70a-eec3-45c9-a78f-2c680f1c9cff.webp",
+        "p3 Jordan Why Not .6 PF/ed6a1778-7ee5-4b9f-820d-3241ee758b03.webp",
+        "p3 Jordan Why Not .6 PF/fa459bba-bf85-4836-a9c5-3a58d75e85a0.webp"
+      ],
       "sizes": [
         {
           "size": "7",
@@ -231,10 +255,18 @@
     {
       "id": 5,
       "name": "Jordan Stay Loyal 2",
-      "img": "../p4 Jordan Stay Loyal 2/thumbnail.webp",
+      "img": "p4 Jordan Stay Loyal 2/thumbnail.webp",
       "price": 12750,
       "discount": 50,
       "description": "A comfortable and stylish shoe from Jordan Brand, this shoe features a leather upper with a suede overlay. The outsole is made of durable rubber for traction.",
+      "images": [
+        "p4 Jordan Stay Loyal 2/2c626f13-ae78-4e09-8b78-93b57c3526fd.webp",
+        "p4 Jordan Stay Loyal 2/7b99c1a1-be8c-4d9c-9988-529d0a4da314.webp",
+        "p4 Jordan Stay Loyal 2/7e4a1aea-0008-4b42-9234-fad4b8ec6671.webp",
+        "p4 Jordan Stay Loyal 2/55eaeef0-5325-4fd1-9a7a-9cb993d07d5a.webp",
+        "p4 Jordan Stay Loyal 2/300ebeb7-25c9-4957-8e70-95a9cfe2e64e.webp",
+        "p4 Jordan Stay Loyal 2/632d0ccc-0475-4760-802e-ba6baa574531.webp"
+      ],
       "sizes": [
         {
           "size": "7",
@@ -288,10 +320,16 @@
     {
       "id": 6,
       "name": "Jordan Delta 3 Low",
-      "img": "../p5 Jordan Delta 3 Low/thumbnail.webp",
+      "img": "p5 Jordan Delta 3 Low/thumbnail.webp",
       "price": 12750,
       "discount": 50,
       "description": "A versatile and comfortable shoe from Jordan Brand, this shoe features a breathable mesh upper with a durable rubber outsole.",
+      "images": [
+        "p5 Jordan Delta 3 Low/55fc411d-e563-4bde-8cd6-a92bd4f801c8.webp",
+        "p5 Jordan Delta 3 Low/be070666-90a9-4246-b758-041e30810d28.webp",
+        "p5 Jordan Delta 3 Low/c7c2fd7d-f640-4898-8f42-e1d39acf800c.webp",
+        "p5 Jordan Delta 3 Low/e2bce59c-b55e-4104-9a57-4b432ca1ed68.webp"
+      ],
       "sizes": [
         {
           "size": "7",
@@ -344,10 +382,16 @@
     {
       "id": 7,
       "name": "Air Jordan 13 Retro",
-      "img": "../p6 Air Jordan 13 Retro/thumbnail.webp",
+      "img": "p6 Air Jordan 13 Retro/thumbnail.webp",
       "price": 12750,
       "discount": 50,
       "description": "A classic shoe from Jordan Brand, this shoe features a leather upper with a carbon fiber plate in the heel. The outsole is made of durable rubber for traction.",
+      "images": [
+        "p6 Air Jordan 13 Retro/60600d0e-b807-4e2e-8f92-cf020ed3af10.webp",
+        "p6 Air Jordan 13 Retro/07980032-ec67-40b6-a32d-72dca21128a1.webp",
+        "p6 Air Jordan 13 Retro/dcd4glkjqed1wsnuuxfp.webp",
+        "p6 Air Jordan 13 Retro/f5574dde-ceca-4390-af45-56745c2f68af.webp"
+      ],
       "sizes": [
         {
           "size": "7",
@@ -400,10 +444,16 @@
     {
       "id": 8,
       "name": "Air Jordan 6 Retro",
-      "img": "../p7 Air Jordan 6 Retro/thumbnail.webp",
+      "img": "p7 Air Jordan 6 Retro/thumbnail.webp",
       "price": 22750,
       "discount": 35.5,
       "description": "A popular shoe from Jordan Brand, this shoe features a leather upper with a visible Air unit in the heel. The outsole is made of durable rubber for traction.",
+      "images": [
+        "p7 Air Jordan 6 Retro/61faeb90-8e1f-434c-a3e3-7366715d3522.webp",
+        "p7 Air Jordan 6 Retro/14187bc6-c4ea-4900-be18-05c4ac15f9d1.webp",
+        "p7 Air Jordan 6 Retro/af407608-9bbd-4140-8f5a-e1a24284574d.webp",
+        "p7 Air Jordan 6 Retro/f1872a38-b733-4c8e-bf7e-3f2748b0fefa.webp"
+      ],
       "sizes": [
         {
           "size": "7",
@@ -456,10 +506,16 @@
     {
       "id": 9,
       "name": "Air Jordan 1 Retro High OG",
-      "img": "../p8 Air Jordan 1 Retro High OG/thumbnail.webp",
+      "img": "p8 Air Jordan 1 Retro High OG/thumbnail.webp",
       "price": 18750,
       "discount": 45.3,
       "description": "A must-have shoe from Jordan Brand, this shoe features a leather upper with a classic design. The outsole is made of durable rubber for traction.",
+      "images": [
+        "p8 Air Jordan 1 Retro High OG/09c9186d-e28e-4e46-9535-e49f09ddfdd9.webp",
+        "p8 Air Jordan 1 Retro High OG/a5eaef87-810b-4ceb-9d26-bbcfdb7894d6.webp",
+        "p8 Air Jordan 1 Retro High OG/air-jordan-1-retro-high-og-shoes-Pz6fZ9.jpeg",
+        "p8 Air Jordan 1 Retro High OG/b7d9e1fb-6119-4345-8efe-747dd6bffa6a.webp"
+      ],
       "sizes": [
         {
           "size": "7",

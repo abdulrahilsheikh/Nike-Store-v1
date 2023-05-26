@@ -48,7 +48,7 @@ const Header = () => {
 			className="w-full flex items-center justify-center py-2  top-0 z-20">
 			<Wrapper>
 				<div className="w-full  items-center px-4 max-w-screen-xl mx-auto md:px-8 md:flex">
-					<div className="flex items-center justify-between py-3 md:py-4 md:block">
+					<div className="flex items-center justify-between  sm:py-3 md:py-4 md:block">
 						<a href="/">
 							<img
 								src={nikeLogo}

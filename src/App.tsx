@@ -18,7 +18,7 @@ function App() {
 				children: [{ path: "", element: <Product /> }],
 			},
 		],
-		{ basename: "/Nike-store-v1" }
+		{ basename: "/Nike-Store-v1" }
 	);
 	return <RouterProvider router={router} />;
 }

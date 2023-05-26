@@ -34,9 +34,7 @@ const HomepageCarousel = () => {
 						className="aspect-[16/10] md:aspect-auto object-cover"
 					/>
 
-					<a
-						className=" md:px-[40px]   md:py-[25px] font-oswald   absolute bottom-[25px] md:bottom-[75px] left-0 text-black/[0.9] text-[15px] md:text-[30px] uppercase  cursor-pointer hover:opacity-90 cta-pr-btn px-4 py-2   font-medium bg-indigo-50/50 rounded-lg inline-flex items-center"
-						href="javascript:void()">
+					<div className=" md:px-[40px]   md:py-[25px] font-oswald   absolute bottom-[25px] md:bottom-[75px] left-0 text-black/[0.9] text-[15px] md:text-[30px] uppercase  cursor-pointer hover:opacity-90 cta-pr-btn px-4 py-2   font-medium bg-indigo-50/50 rounded-lg inline-flex items-center">
 						Try it out
 						<svg
 							xmlns="http://www.w3.org/2000/svg"
@@ -51,7 +49,7 @@ const HomepageCarousel = () => {
 								d="M13 7l5 5m0 0l-5 5m5-5H6"
 							/>
 						</svg>
-					</a>
+					</div>
 				</div>
 
 				<div>
@@ -59,9 +57,7 @@ const HomepageCarousel = () => {
 						src={slide2}
 						className="aspect-[16/10] md:aspect-auto object-cover"
 					/>
-					<a
-						className=" md:px-[40px]   md:py-[25px] font-oswald   absolute bottom-[25px] md:bottom-[75px] left-0 text-black/[0.9] text-[15px] md:text-[30px] uppercase  cursor-pointer hover:opacity-90 cta-pr-btn px-4 py-2   font-medium bg-indigo-50/50 rounded-lg inline-flex items-center"
-						href="javascript:void()">
+					<div className=" md:px-[40px]   md:py-[25px] font-oswald   absolute bottom-[25px] md:bottom-[75px] left-0 text-black/[0.9] text-[15px] md:text-[30px] uppercase  cursor-pointer hover:opacity-90 cta-pr-btn px-4 py-2   font-medium bg-indigo-50/50 rounded-lg inline-flex items-center">
 						Try it out
 						<svg
 							xmlns="http://www.w3.org/2000/svg"
@@ -76,7 +72,7 @@ const HomepageCarousel = () => {
 								d="M13 7l5 5m0 0l-5 5m5-5H6"
 							/>
 						</svg>
-					</a>
+					</div>
 				</div>
 
 				<div>
@@ -84,9 +80,7 @@ const HomepageCarousel = () => {
 						src={slide3}
 						className="aspect-[16/10] md:aspect-auto object-cover"
 					/>
-					<a
-						className=" md:px-[40px]   md:py-[25px] font-oswald   absolute bottom-[25px] md:bottom-[75px] left-0 text-black/[0.9] text-[15px] md:text-[30px] uppercase  cursor-pointer hover:opacity-90 cta-pr-btn px-4 py-2   font-medium bg-indigo-50/50 rounded-lg inline-flex items-center"
-						href="javascript:void()">
+					<div className=" md:px-[40px]   md:py-[25px] font-oswald   absolute bottom-[25px] md:bottom-[75px] left-0 text-black/[0.9] text-[15px] md:text-[30px] uppercase  cursor-pointer hover:opacity-90 cta-pr-btn px-4 py-2   font-medium bg-indigo-50/50 rounded-lg inline-flex items-center">
 						Try it out
 						<svg
 							xmlns="http://www.w3.org/2000/svg"
@@ -101,7 +95,7 @@ const HomepageCarousel = () => {
 								d="M13 7l5 5m0 0l-5 5m5-5H6"
 							/>
 						</svg>
-					</a>
+					</div>
 				</div>
 			</Carousel>
 		</div>
